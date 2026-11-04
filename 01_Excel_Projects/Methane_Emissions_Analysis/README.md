@@ -1,5 +1,8 @@
 # 2022 Methane Emissions Analysis
-
+![Methane_Emissins_Analysis](methane%20dashboard%201.png)
+![Methane_Emissins_Analysis](methane%20dashboard%202.png)
+![Methane_Emissins_Analysis](methane%20dashboard%203.png)
+![Methane_Emissins_Analysis](methane%20dashboard%204.png)
 ## Project Overview
 This project focuses on the analysis of methane emissions data for 2022, with particular attention to emission patterns and the contribution of methane to global warming.
 
