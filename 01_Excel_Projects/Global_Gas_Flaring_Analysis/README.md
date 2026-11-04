@@ -1,6 +1,9 @@
 # Global Gas Flaring Analysis (2012–2025)
-![Global_Gas_Flaring_Analysis](Flare%20dashboard%201.png)
-![Global_Gas_Flaring_Analysis](Flare%20dashboard%202.png)
+## Dashboard Preview
+
+![Global Gas Flaring Analysis](Flare%20dashboard%201.png)
+
+![Global Gas Flaring Analysis](Flare%20dashboard%202.png)
 ## Project Overview
 This project examines global gas flaring trends across 107 countries over a 14-year period (2012–2025).
 
