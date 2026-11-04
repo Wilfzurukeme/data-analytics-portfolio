@@ -1,6 +1,6 @@
 # Bike Purchase Analysis
-![Bike_Purchase_Analysis](Bike%20Purchase%20Analysis)
-![Bike_Purchase_Analysis](Bike%20Purchase%20Analysis%202)
+![Bike_Purchase_Analysis](Bike%20Purchase%20Analysis.png)
+![Bike_Purchase_Analysis](Bike%20Purchase%20Analysis%202.png)
 ## Project Overview
 This project explores customer purchasing behaviour in the bicycle market, with the aim of identifying factors that influence customers' decisions to purchase bicycles.
 
