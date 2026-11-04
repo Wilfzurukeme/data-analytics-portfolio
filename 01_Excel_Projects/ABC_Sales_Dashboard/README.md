@@ -1,5 +1,5 @@
 # ABC Sales Dashboard
-
+![ABS_Sales_Dashboard](ABC sales dashboard.png)
 ## Project Overview
 This project involves the development of an interactive sales dashboard using Microsoft Excel to analyse and monitor business performance.
 
