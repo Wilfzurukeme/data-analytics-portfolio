@@ -1,4 +1,24 @@
 # Electronics Retailer Analysis – Power BI
+### Page 1
+![Electronics Retailer Dashboard - Page 1](page%201.png)
+
+### Page 2
+![Electronics Retailer Dashboard - Page 2](page%202.png)
+
+### Page 3
+![Electronics Retailer Dashboard - Page 3](page%203.png)
+
+### Page 4
+![Electronics Retailer Dashboard - Page 4](page%204.png)
+
+### Page 5
+![Electronics Retailer Dashboard - Page 5](page%205.png)
+
+### Page 6
+![Electronics Retailer Dashboard - Page 6](page%206.png)
+
+### Page 7
+![Electronics Retailer Dashboard - Page 7](page%207.png)
 
 ## Project Overview
 
