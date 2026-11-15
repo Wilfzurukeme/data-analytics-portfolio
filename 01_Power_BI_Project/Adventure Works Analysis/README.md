@@ -1,13 +1,13 @@
 # Adventure Power BI – Sales & Business Performance Analysis
 ## Dashboard Preview
 ### Image 1
-![Adventure Power BI Dashboard - Image 1](image%201.png)
+![Adventure Power BI Dashboard - Image 1](Image%201.png)
 
 ### Image 2
-![Adventure Power BI Dashboard - Image 2](image%202.png)
+![Adventure Power BI Dashboard - Image 2](Image%202.png)
 
 ### Image 3
-![Adventure Power BI Dashboard - Image 3](image%203.png)
+![Adventure Power BI Dashboard - Image 3](Image%203.png)
 
 ### Image 4
 ![Adventure Power BI Dashboard - Image 4](image%204.png)
