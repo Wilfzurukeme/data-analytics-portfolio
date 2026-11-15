@@ -7,7 +7,7 @@
 ![Adventure Power BI Dashboard - Image 2](Image%202.png)
 
 ### Image 3
-![Adventure Power BI Dashboard - Image 3](Image%203.png)
+![Adventure Power BI Dashboard - Image 3](image%203.png)
 
 ### Image 4
 ![Adventure Power BI Dashboard - Image 4](image%204.png)
@@ -16,7 +16,7 @@
 ![Adventure Power BI Dashboard - Image 5](image%205.png)
 
 ### Image 6
-![Adventure Power BI Dashboard - Image 6](image%206.png)
+![Adventure Power BI Dashboard - Image 6](Image%206.png)
 ## Project Overview
 
 This project involves the development of an interactive business intelligence dashboard using Microsoft Power BI to analyse sales performance and key operational metrics.
